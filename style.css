@@ -1,0 +1,35 @@
+html {
+    height: 100%;
+  }
+  body{
+        margin:0;
+        padding:0;
+        font-family: sans-serif;
+    background:linear-gradient(#05ff04, #03eb96,#caf54b,#60e1a5,#60e1c5,#7fe7e2);
+}
+#imgs{
+    font-family: sans-serif;   
+    color: aliceblue;
+}
+.p{
+    color:bisque;  
+}
+.m{
+    color: cornsilk;  
+}
+.name_of_objects{
+color: whitesmoke;
+}
+#result_object_name
+{
+color: thistle;
+}
+#result_object_accuracy{
+color: violet;
+}
+#camera
+    { border: 2px dashed black;
+         width: 350px;
+          height: 300px; 
+        };
+          
